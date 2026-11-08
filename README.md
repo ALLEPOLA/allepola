@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allepola" alt="allepola" /></a> </p>
 
-- 🌱 I’m currently learning **java , react.js**
 
-- 👨‍💻 All of my projects are available at [https://dilshan321-portfolio.netlify.app/](https://dilshan321-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio-dilshan-prasanna-allepola.vercel.app/)
 
-- 📫 How to reach me **prasannaellepola2000@gmail.com**
+- 📫 How to reach me **dilshanagdp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
